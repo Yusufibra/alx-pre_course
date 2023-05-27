@@ -1,1 +1,2 @@
-My firt readme
+My firt readme 
+I now know this thing
