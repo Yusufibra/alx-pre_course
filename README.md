@@ -1,2 +1,2 @@
-My firt readme 
+My first readme 
 I now know this thing
